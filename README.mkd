@@ -33,7 +33,7 @@ II. 或者可以邮件告诉我你对这个项目感兴趣，希望加入的话�
 
 将你的 ID 加入到 diveintohtml5-zh-cn 组织的成员里之后，你就可以使用自己的账户
 直接 push 到 https://github.com/diveintohtml5-zh-cn/diveintohtml5.zh-cn 项目了，
-无需 Frok。
+无需 Fork。
 
 III. 邮件告诉我们你发现的错误或者任何有异议的内容，我们会认真考虑你的意见，感谢你。
 
